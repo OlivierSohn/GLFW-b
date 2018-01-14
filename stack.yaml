@@ -1,10 +1,10 @@
 flags: {}
-packages: 
+packages:
 - '.'
 
 - location:
-    git: https://github.com/bsl/bindings-GLFW.git
-    commit: 2ff8cea47fdda7c7bdfd3a8cc477134bcb24c0e1
+    git: https://github.com/OlivierSohn/bindings-GLFW.git
+    commit: f04f9cd23aab48ac4dcd456736d298ce863d905c
   extra-dep: true
 
 extra-deps: []
