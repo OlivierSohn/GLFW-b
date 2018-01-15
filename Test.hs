@@ -40,7 +40,7 @@ main = do
 
 versionMajor, versionMinor :: Int
 versionMajor = 3
-versionMinor = 1
+versionMinor = 2
 
 giveItTime :: IO ()
 giveItTime = threadDelay 250000
