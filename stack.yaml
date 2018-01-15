@@ -4,8 +4,8 @@ packages:
 
 - location:
     git: https://github.com/OlivierSohn/bindings-GLFW.git
-    commit: f04f9cd23aab48ac4dcd456736d298ce863d905c
+    commit: 02d8896984607e98de5a8b46872b8939863637af
   extra-dep: true
 
 extra-deps: []
-resolver: lts-5.2
+resolver: lts-10.2
