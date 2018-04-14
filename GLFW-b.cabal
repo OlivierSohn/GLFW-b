@@ -50,7 +50,7 @@ library
 
   build-depends:
     base           < 5,
-    bindings-GLFW >= 3.2.1.0
+    bindings-GLFW == 3.2.*
 
 --------------------------------------------------------------------------------
 
@@ -72,7 +72,7 @@ test-suite main
     GLFW-b,
     HUnit                >= 1.3 && < 1.7,
     base                  < 5,
-    bindings-GLFW        >= 3.2.1.0,
+    bindings-GLFW        == 3.2.*,
     test-framework       == 0.8.*,
     test-framework-hunit == 0.3.*
 
